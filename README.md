@@ -1,2 +1,2 @@
 # Text-Based-Browser
-My first webcrawling textbrowser, using beautifulsoup
+My first webcrawling textbrowser, using beautifulsoup.
